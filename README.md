@@ -12,9 +12,9 @@ Further, the model will be a good way for management to understand the pricing d
 
 The company wants to know:
 
-Which variables are significant in predicting the price of a house, and
+    1. Which variables are significant in predicting the price of a house
 
-How well those variables describe the price of a house.
+    2. How well those variables describe the price of a house.
 
 ## Summary
 
